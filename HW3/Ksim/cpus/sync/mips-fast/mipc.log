@@ -1,0 +1,17 @@
+7149 1:<FETCH> 
+7149 1:<FETCH> ************************************************************
+7149 1:<FETCH> 
+7149 1:<FETCH> Number of instructions: 7130
+7149 1:<FETCH> Number of simulated cycles: 7149
+7149 1:<FETCH> CPI: 1.00
+7149 1:<FETCH> Int Conditional Branches: 768
+7149 1:<FETCH> Jump and Link: 27
+7149 1:<FETCH> Jump Register: 25
+7149 1:<FETCH> Number of fp instructions: 2
+7149 1:<FETCH> Number of loads: 361
+7149 1:<FETCH> Number of syscall emulated loads: 85
+7149 1:<FETCH> Number of stores: 1142
+7149 1:<FETCH> Number of syscall emulated stores: 45
+7149 1:<FETCH> Number of syscalls: 5
+7149 1:<FETCH> Number of load stalls: 0
+7149 1:<FETCH> 

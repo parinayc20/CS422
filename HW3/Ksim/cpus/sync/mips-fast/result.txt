@@ -1,0 +1,115 @@
+hi there
+Executing /home/200667/Ksim/Bench/testcode/asm-sim/example.image
+EXIT called, code: 10
+j = 45
+Executing /home/200667/Ksim/Bench/testcode/c-sim/example.image
+EXIT called, code: 0
+0x12
+Executing /home/200667/Ksim/Bench/testcode/endian/endian.image
+EXIT called, code: 0
+10! is 3628800
+Executing /home/200667/Ksim/Bench/testcode/factorial/factorial.image
+EXIT called, code: 2
+Series:  1 1 2 3 5 8 13 21 34 55 89 144
+Executing /home/200667/Ksim/Bench/testcode/fib/fib.image
+EXIT called, code: 99
+hello, world!
+Executing /home/200667/Ksim/Bench/testcode/hello/hello.image
+EXIT called, code: 2
+Summation
+
+Int: sum 5 = 16
+Int: sum 4 = 11
+Int: sum 3 = 7
+Int: sum 2 = 4
+Int: sum 1 = 2
+Executing /home/200667/Ksim/Bench/testcode/host/host.image
+EXIT called, code: 0
+10! is 3628800
+Executing /home/200667/Ksim/Bench/testcode/ifactorial/ifactorial.image
+EXIT called, code: 2
+Series:  1 1 2 3 5 8 13 21 34 55 89 144
+Executing /home/200667/Ksim/Bench/testcode/ifib/ifib.image
+EXIT called, code: 99
+log2(8) is 3
+Executing /home/200667/Ksim/Bench/testcode/log2/log2.image
+EXIT called, code: 2
+Array sorted correctly.
+Executing /home/200667/Ksim/Bench/testcode/msort/msort.image
+EXIT called, code: 99
+Series:  1 1 2 3 5 8 13 21 34 55 89 144
+Executing /home/200667/Ksim/Bench/testcode/rfib/rfib.image
+EXIT called, code: 99
+final_num = 873608278
+res_num = 873608278
+Test successful
+Executing /home/200667/Ksim/Bench/testcode/Subreg/subreg.image
+EXIT called, code: 0
+Move disk 1 from peg A to peg B
+Move disk 2 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 3 from peg A to peg B
+Move disk 1 from peg C to peg A
+Move disk 2 from peg C to peg B
+Move disk 1 from peg A to peg B
+Move disk 4 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 2 from peg B to peg A
+Move disk 1 from peg C to peg A
+Move disk 3 from peg B to peg C
+Move disk 1 from peg A to peg B
+Move disk 2 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 5 from peg A to peg B
+Move disk 1 from peg C to peg A
+Move disk 2 from peg C to peg B
+Move disk 1 from peg A to peg B
+Move disk 3 from peg C to peg A
+Move disk 1 from peg B to peg C
+Move disk 2 from peg B to peg A
+Move disk 1 from peg C to peg A
+Move disk 4 from peg C to peg B
+Move disk 1 from peg A to peg B
+Move disk 2 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 3 from peg A to peg B
+Move disk 1 from peg C to peg A
+Move disk 2 from peg C to peg B
+Move disk 1 from peg A to peg B
+Move disk 6 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 2 from peg B to peg A
+Move disk 1 from peg C to peg A
+Move disk 3 from peg B to peg C
+Move disk 1 from peg A to peg B
+Move disk 2 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 4 from peg B to peg A
+Move disk 1 from peg C to peg A
+Move disk 2 from peg C to peg B
+Move disk 1 from peg A to peg B
+Move disk 3 from peg C to peg A
+Move disk 1 from peg B to peg C
+Move disk 2 from peg B to peg A
+Move disk 1 from peg C to peg A
+Move disk 5 from peg B to peg C
+Move disk 1 from peg A to peg B
+Move disk 2 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 3 from peg A to peg B
+Move disk 1 from peg C to peg A
+Move disk 2 from peg C to peg B
+Move disk 1 from peg A to peg B
+Move disk 4 from peg A to peg C
+Move disk 1 from peg B to peg C
+Move disk 2 from peg B to peg A
+Move disk 1 from peg C to peg A
+Move disk 3 from peg B to peg C
+Move disk 1 from peg A to peg B
+Move disk 2 from peg A to peg C
+Move disk 1 from peg B to peg C
+Executing /home/200667/Ksim/Bench/testcode/towers/towers.image
+EXIT called, code: 99
+The answer to all life's questions is 119
+Executing /home/200667/Ksim/Bench/testcode/vadd/vadd.image
+EXIT called, code: 99
